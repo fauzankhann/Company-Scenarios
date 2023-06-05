@@ -5,5 +5,5 @@ This program will present you with multiple real-life scenarios that companies f
 
 # Instructions for playing
 1. Download all files in DecideForCompany Folder
-2. Open folder on Java IDE and run the main.java file
+2. Open folder on Java IDE and run the main.java file (located inside src/companyculminating)
 3. Enjoy
